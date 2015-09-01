@@ -16,6 +16,7 @@ namespace utilphp;
  */
 class util
 {
+use UtiltInk;
     /**
      * A constant representing the number of seconds in a minute, for
      * making code more verbose
